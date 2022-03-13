@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "fabricated_tech:block/crafting_station"
+    }
+  }
+}

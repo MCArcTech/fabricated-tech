@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "id": "FabricatedTech",
+  "id": "fabricated-tech",
   "version": "${version}",
-  "name": "FabricatedTech",
+  "name": "Fabricated Tech",
   "description": "A tech mod inspired by Project: Red.",
   "authors": [
     "MrMelon54",
@@ -14,7 +14,7 @@
     "repo": "https://github.com/fabricated-tech/fabricated-tech"
   },
   "license": "MIT",
-  "icon": "assets/FabricatedTech/icon.png",
+  "icon": "assets/fabricated_tech/icon.png",
   "environment": "*",
   "entrypoints": {
     "client": [
@@ -30,6 +30,6 @@
   "depends": {
     "fabricloader": ">=0.13.3",
     "fabric": "*",
-    "minecraft": "1.18.2"
+    "minecraft": "1.18.x"
   }
 }
